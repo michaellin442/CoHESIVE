@@ -87,6 +87,9 @@ footer {
     text-align: center;
     margin: 0px;
     padding: 30px 200px 30px 200px;
+    font-size: 14px;
+    font-family: 'Quicksand';
+    line-height: 25px;
   }
 
 .bayer-logo{
