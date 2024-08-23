@@ -88,3 +88,32 @@ footer {
     margin: 0px;
     padding: 30px 200px 30px 200px;
   }
+
+.bayer-logo{
+    width: 250px;
+    margin-top: 100px;
+    margin-right: 75px;
+}
+
+.bristol-myers-squibb-logo{
+    width: 350px;
+    margin-right:75px;
+}
+
+.servier-logo{
+    margin-right:40px;
+    margin-top: 80px;
+}
+
+.octapharma-logo{
+    margin-left: 30px;
+}
+
+.portola-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 125px;
+    margin-bottom: 100px;
+}
