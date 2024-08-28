@@ -8,8 +8,6 @@ main{
 
 .signup-sheet{
     margin-top: 75px;
-    margin-left: 175px;
-    margin-right: 250px;
 }
 
 h1{
@@ -29,6 +27,7 @@ h1{
 .navbar ul{
     list-style-type: none;
     background-color: #082c5c;
+    width: 100%;
     padding: 0% 10% 0% 0%;
     margin: -8px;
     overflow: hidden;
@@ -92,13 +91,11 @@ figcaption{
 
 footer {
     position: absolute; 
-    bottom: 1; 
+    width: 100%;
     left: 0; 
     background-color: #082c5c;
     color: white;
     text-align: center;
-    margin: 0px;
-    padding: 30px 200px 30px 200px;
     font-size: 14px;
     font-family: 'Quicksand';
     line-height: 25px;
@@ -142,8 +139,8 @@ table, th, td {
 }
 
 .symposium-text{
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .headshots{
