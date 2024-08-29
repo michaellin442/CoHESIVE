@@ -150,6 +150,7 @@ table, th, td {
 table{
     margin-left: auto;
     margin-right: auto;
+    width: 90%;
 }
 
 .symposium-text{
