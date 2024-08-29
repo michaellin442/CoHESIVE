@@ -101,8 +101,7 @@ footer {
     font-family: 'Quicksand';
     line-height: 25px;
     padding: 0% 10% 0% 0%;
-
-  }
+}
 
 .bayer-logo{
     width: 250px;
@@ -149,7 +148,7 @@ table, th, td {
 .headshots{
     margin-top: 150px;
     margin-bottom: -90px;
-    width: 50%;
+    width: 25%;
     border-radius: 10px;
     display: block;
     margin-left: 1%;
