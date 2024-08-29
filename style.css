@@ -37,7 +37,6 @@ h1{
     background-color: #082c5c;
     width: 100%;
     height:auto;
-    padding: 0% 0% 0% 0%;
     overflow: hidden;
 }
 
@@ -98,7 +97,9 @@ figcaption{
 
 footer {
     position: block; 
+    display: inline-block;
     width: 100%;
+    height:100px;
     background-color: #082c5c;
     color: white;
     text-align: center;
@@ -107,39 +108,34 @@ footer {
     line-height: 100px;
 }
 
-footer a{
-    margin-left: 20%;
-    margin-right: 20%;
+.bayer-logo{
+    width: 25%;
+    margin: 50px;
 }
 
-.bayer-logo{
-    width: 250px;
-    margin-top: 100px;
-    margin-right: 75px;
+.daiichi-sankyo-logo{
+    width: 25%;
+    margin: 50px;
 }
 
 .bristol-myers-squibb-logo{
-    width: 350px;
-    margin-right:75px;
-    margin-top: 100px;
+    width: 25%;
+    margin: 50px;
 }
 
 .servier-logo{
-    margin-right:40px;
-    margin-top: 80px;
+    width: 25%;
+    margin: 50px;
 }
 
 .octapharma-logo{
-    margin-left: 30px;
+    width: 25%;
+    margin: 50px;
 }
 
 .portola-logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    margin-top: 125px;
-    margin-bottom: 100px;
+    width: 25%;
+    margin: 50px;
 }
 
 table, th, td {
