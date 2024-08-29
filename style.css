@@ -7,10 +7,10 @@
 main{
     font-size: 16px;
     font-family: 'Quicksand';
+    letter-spacing: 0.75px;
     line-height: 25px;
     margin-left: 18%;
     margin-right: 18%;
-
 }
 
 .signup-sheet{
@@ -165,4 +165,8 @@ table{
     border-top: 4px solid#5094dc;
     margin-top: 50px;
     margin-bottom: -100px;
+}
+
+ol {
+    margin-left: 5%;
 }
