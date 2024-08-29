@@ -1,9 +1,16 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
 main{
     font-size: 16px;
     font-family: 'Quicksand';
     line-height: 25px;
     margin-left: 18%;
     margin-right: 18%;
+
 }
 
 .signup-sheet{
@@ -29,8 +36,8 @@ h1{
     list-style-type: none;
     background-color: #082c5c;
     width: 100%;
-    padding: 0% 10% 0% 0%;
-    margin: -8px;
+    height:auto;
+    padding: 0% 0% 0% 0%;
     overflow: hidden;
 }
 
@@ -90,17 +97,14 @@ figcaption{
 }
 
 footer {
-    position: absolute; 
+    position: block; 
     width: 100%;
-    bottom: 1; 
-    left: 0; 
     background-color: #082c5c;
     color: white;
     text-align: center;
     font-size: 14px;
     font-family: 'Quicksand';
     line-height: 25px;
-    padding: 0% 10% 0% 0%;
 }
 
 .bayer-logo{
