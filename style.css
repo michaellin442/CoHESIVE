@@ -79,7 +79,6 @@ h1{
 .img-logo{
     margin-top: 75px;
     margin-left: 10%;
-    width: 20%
 }
 
 figcaption{
@@ -148,7 +147,7 @@ table, th, td {
 .headshots{
     margin-top: 150px;
     margin-bottom: -90px;
-    width: 300px;
+    width: 50%;
     border-radius: 10px;
     display: block;
     margin-left: 1%;
@@ -158,4 +157,9 @@ table, th, td {
     border-top: 4px solid#5094dc;
     margin-top: 50px;
     margin-bottom: -100px;
+}
+
+.symposium-title{
+    margin-left: 20%;
+    margin-right: 20%;
 }
